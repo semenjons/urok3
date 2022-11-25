@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\bin\Debug\net6.0\prostranstvo.exe
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\bin\Debug\net6.0\prostranstvo.deps.json
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\bin\Debug\net6.0\prostranstvo.runtimeconfig.json
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\bin\Debug\net6.0\prostranstvo.dll
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\bin\Debug\net6.0\prostranstvo.pdb
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.dll
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\refint\prostranstvo.dll
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.pdb
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\prostranstvo.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\Urok3\prostranstvo\obj\Debug\net6.0\ref\prostranstvo.dll
