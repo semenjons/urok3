@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\tubcub\bin\Debug\net6.0\tubcub.exe
+C:\УЧЕБА\ДЗ\Urok3\tubcub\bin\Debug\net6.0\tubcub.deps.json
+C:\УЧЕБА\ДЗ\Urok3\tubcub\bin\Debug\net6.0\tubcub.runtimeconfig.json
+C:\УЧЕБА\ДЗ\Urok3\tubcub\bin\Debug\net6.0\tubcub.dll
+C:\УЧЕБА\ДЗ\Urok3\tubcub\bin\Debug\net6.0\tubcub.pdb
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.dll
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\refint\tubcub.dll
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.pdb
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\tubcub.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\Urok3\tubcub\obj\Debug\net6.0\ref\tubcub.dll
