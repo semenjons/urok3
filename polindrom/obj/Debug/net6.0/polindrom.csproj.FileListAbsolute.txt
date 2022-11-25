@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\Urok3\polindrom\bin\Debug\net6.0\polindrom.exe
+C:\УЧЕБА\ДЗ\Urok3\polindrom\bin\Debug\net6.0\polindrom.deps.json
+C:\УЧЕБА\ДЗ\Urok3\polindrom\bin\Debug\net6.0\polindrom.runtimeconfig.json
+C:\УЧЕБА\ДЗ\Urok3\polindrom\bin\Debug\net6.0\polindrom.dll
+C:\УЧЕБА\ДЗ\Urok3\polindrom\bin\Debug\net6.0\polindrom.pdb
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.dll
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\refint\polindrom.dll
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.pdb
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\polindrom.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\Urok3\polindrom\obj\Debug\net6.0\ref\polindrom.dll
